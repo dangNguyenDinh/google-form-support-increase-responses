@@ -2,9 +2,9 @@
 <p>Để sử dụng tool, bạn cần phải tải Chrome và Chrome driver theo link sau:
   <br><a href="https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.94/win64/chrome-win64.zip">Chrome</a>
   <br><a href="https://storage.googleapis.com/chrome-for-testing-public/122.0.6261.94/win64/chromedriver-win64.zip">Chrome driver</a>
-  <br>Sau đó cài đặt thư viện selenium rồi chạy file main.py trên máy
+  <br>Sau đó cài đặt thư viện selenium (pip install selenium) rồi chạy file main.py trên máy (python main.py) 
   <br>Các bạn có thể chỉnh sửa về link prefill, số lượng responses và XPath theo ngôn ngữ cho phù hợp
-  <br>Nếu gặp vấn đề gì, liên hệ với tôi qua facebook
+  <br>Nếu gặp vấn đề gì, liên hệ với tôi qua facebook (đéo phải fb tôi)
 </p>
 <br>
 <h1>This is a tool using Selenium to automatically submit a prefilled Google Form</h1>
